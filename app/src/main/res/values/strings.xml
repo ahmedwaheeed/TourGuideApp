@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="action_settings">Settings</string>
+    <string name="Clubs">Clubs</string>
+    <string name="Museums">Museums</string>
+    <string name="Mosques">Mosques</string>
+    <string name="Resorts">S. Clubs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_name">Place Name</string>
+    <string name="place_owner">Place owner</string>
+    <string name="place_location">Place Location</string>
+    <string name="_9_00_am_to_5_00_pm">9:00 AM</string>
+
+    <!-- Clubs Data here -->
+    <string name="AlAhly">Al-Ahly SC</string>
+    <string name="ahly_owner">Mahmoud El Khatib</string>
+    <string name="ahly_location">Madinet Nasr,Cairo</string>
+
+    <string name="ElZamalek">El-Zamalek SC</string>
+    <string name="zmalek_owner">Mortada Mansour</string>
+    <string name="zamalek_location">Al Agouzah, Giza</string>
+
+    <string name="almasry">Al-Masry SC</string>
+    <string name="almasry_owner">Samir Halabia</string>
+    <string name="almasry_location">Port Fouad, Port Said</string>
+
+    <string name="ismaily">Ismaily SC</string>
+    <string name="isamily_owner">Ibrahim Osman</string>
+    <string name="ismaily_locaton">Reda Street، Reda, Ismailia</string>
+
+    <string name="smouha">Smouha SC</string>
+    <string name="smouha_owner">Mohamed Farag Amer</string>
+    <string name="smouha_location">Qism Sidi Gabir, Alexandria</string>
+
+    <string name="degla">Wadi Degla SC</string>
+    <string name="degla_owner">Maged Samy</string>
+    <string name="degla_location">(Neopolis compound)،2nd Ring Rd, Cairo</string>
+
+
+    <!-- Museums Data here -->
+    <string name="Egyptian_m">Egyptian Museum</string>
+    <string name="Egyptian_m_owner">Sabah Abdel-Razek</string>
+    <string name="Egyptian_m_location">Qasr an Nile, Cairo</string>
+    <string name="Egy_time">9:00 AM</string>
+    
+    <string name="Nubian_m">Nubian Museum</string>
+    <string name="Nubian_m_owner">Mahmoud El-Hakim</string>
+    <string name="Nubian_m_location">Qism Aswan, Aswan</string>
+    <string name="Nubian_time">9:00 AM</string>
+
+    <string name="Coptic_m">Coptic Museum</string>
+    <string name="coptic_m_owner">Marcus Simaika</string>
+    <string name="coptic_m_location">Misr Al Qadimah, Cairo</string>
+    <string name="coptic_time">9:00 AM</string>
+
+    <string name="luxor_m">Luxor Museum</string>
+    <string name="luxor_m_owner">Ministry of Culture</string>
+    <string name="luxor_m_location">Kornish Al Nile, Luxor</string>
+    <string name="luxor_time">9:00 AM</string>
+
+    <string name="agri_m">Agricultural Museum</string>
+    <string name="agri_m_owner">Khedive Ismail</string>
+    <string name="agri_m_location">	Dokki, Giza, Egypt</string>
+    <string name="agri_time">9:00 AM</string>
+
+
+    <!-- Mosques data here -->
+    <string name="mohamedali_mo">Mosque of Mohamed Ali</string>
+    <string name="mohamedali_m_owner">Muhammad Ali of Egypt</string>
+    <string name="mohamedali_mo_location">Qism El-Khalifa, Cairo</string>
+    <string name="mohamedali_mo_time">Any Time</string>
+
+    <string name="tulun_mo">Mosque of Ibn Tulun</string>
+    <string name="tulun_mo_owner">Ahmad ibn Tulun</string>
+    <string name="tulun_mo_location">El-Sayeda Zainab, Cairo</string>
+    <string name="tulun_mo_time">Any Time</string>
+
+    <string name="azhar_mo">Al-Azhar Mosque</string>
+    <string name="azhar_mo_owner">Mohamed Ahmed el-Tayeb</string>
+    <string name="azhar_mo_location">El-Darb El-Ahmar, Cairo</string>
+    <string name="azhar_mo_time">Any Time</string>
+
+    <string name="aqsun_mo">Aqsunqur Mosque</string>
+    <string name="aqsun_mo_owner">Mamluk architecture</string>
+    <string name="aqsun_mo_location">El-Darb El-Ahmar, Cairo</string>
+    <string name="aqsun_mo_time">Any Time</string>
+
+
+</resources>
